@@ -1,0 +1,20 @@
+﻿  Lesson#1_FindClient.cpp
+D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\Lesson#1_FindClient\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Lesson#1_FindClient/Lesson#1_FindClient/Lesson#1_FindClient.cpp')
+  
+D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\Lesson#1_FindClient\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Lesson#1_FindClient/Lesson#1_FindClient/Lesson#1_FindClient.cpp')
+  
+D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\Lesson#1_FindClient\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Lesson#1_FindClient/Lesson#1_FindClient/Lesson#1_FindClient.cpp')
+  
+D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\Lesson#1_FindClient\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Lesson#1_FindClient/Lesson#1_FindClient/Lesson#1_FindClient.cpp')
+  
+D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\Lesson#1_FindClient\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Lesson#1_FindClient/Lesson#1_FindClient/Lesson#1_FindClient.cpp')
+  
+D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\Lesson#1_FindClient\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../Lesson#1_FindClient/Lesson#1_FindClient/Lesson#1_FindClient.cpp')
+  
+  Lesson#1_FindClient.vcxproj -> D:\Project_Courses_M_Had\Course11_OOP C++ Level2\ProjectBank\Lesson#1_FindClient\x64\Debug\Lesson#1_FindClient.exe
